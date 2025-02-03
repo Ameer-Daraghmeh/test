@@ -1,6 +1,4 @@
-Download the file,
-Use it as you wich,
-good luck.
+HTML,CSS,JS,BOOTSTRAP,PHP
 
 
 
